@@ -1,0 +1,12 @@
+{
+  "main-layout": {
+    "primary": {
+      "value": "{core.halva.900}",
+      "type": "color"
+    },
+    "secondary": {
+      "value": "{core.halva.800}",
+      "type": "color"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "label-value-list": {
+    "default": {
+      "small": {
+        "gap": {
+          "value": "0",
+          "type": "sizing"
+        },
+        "padding-vertical": {
+          "value": "{size.1}",
+          "type": "sizing"
+        }
+      },
+      "medium": {
+        "gap": {
+          "value": "0",
+          "type": "sizing"
+        },
+        "padding-vertical": {
+          "value": "{size.2}",
+          "type": "sizing"
+        }
+      }
+    },
+    "control": {
+      "gap": {
+        "value": "0",
+        "type": "sizing"
+      },
+      "padding-vertical": {
+        "value": "0",
+        "type": "sizing"
+      }
+    }
+  }
+}

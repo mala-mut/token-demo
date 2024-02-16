@@ -1,0 +1,108 @@
+{
+  "modal": {
+    "small": {
+      "modal": {
+        "padding-top": {
+          "value": "{size.40}",
+          "type": "sizing"
+        },
+        "padding-bottom": {
+          "value": "{size.40}",
+          "type": "sizing"
+        },
+        "padding-horizontal": {
+          "value": "0",
+          "type": "sizing"
+        },
+        "width": {
+          "value": "480",
+          "type": "sizing"
+        }
+      },
+      "dialog": {
+        "padding-top": {
+          "value": "{size.40}",
+          "type": "sizing"
+        },
+        "padding-bottom": {
+          "value": "{size.40}",
+          "type": "sizing"
+        },
+        "padding-horizontal": {
+          "value": "0",
+          "type": "sizing"
+        },
+        "width": {
+          "value": "360",
+          "type": "sizing"
+        }
+      },
+      "fullscreen": {
+        "padding-top": {
+          "value": "0",
+          "type": "sizing"
+        },
+        "padding-bottom": {
+          "value": "0",
+          "type": "sizing"
+        },
+        "padding-horizontal": {
+          "value": "0",
+          "type": "sizing"
+        }
+      }
+    },
+    "medium": {
+      "modal": {
+        "padding-top": {
+          "value": "{size.40}",
+          "type": "sizing"
+        },
+        "padding-bottom": {
+          "value": "{size.40}",
+          "type": "sizing"
+        },
+        "padding-horizontal": {
+          "value": "0",
+          "type": "sizing"
+        },
+        "width": {
+          "value": "720",
+          "type": "sizing"
+        }
+      },
+      "dialog": {
+        "padding-top": {
+          "value": "{size.40}",
+          "type": "sizing"
+        },
+        "padding-bottom": {
+          "value": "{size.40}",
+          "type": "sizing"
+        },
+        "padding-horizontal": {
+          "value": "0",
+          "type": "sizing"
+        },
+        "width": {
+          "value": "360",
+          "type": "sizing"
+        }
+      },
+      "fullscreen": {
+        "padding-top": {
+          "value": "0",
+          "type": "sizing"
+        },
+        "padding-bottom": {
+          "value": "0",
+          "type": "sizing"
+        },
+        "padding-horizontal": {
+          "value": "0",
+          "type": "sizing"
+        }
+      }
+    }
+  }
+}

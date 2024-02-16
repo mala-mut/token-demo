@@ -1,0 +1,34 @@
+{
+  "panel": {
+    "300": {
+      "border-radius": {
+        "value": "{size.8}",
+        "type": "sizing"
+      }
+    },
+    "400": {
+      "border-radius": {
+        "value": "{size.12}",
+        "type": "sizing"
+      }
+    },
+    "500": {
+      "border-radius": {
+        "value": "{size.16}",
+        "type": "sizing"
+      }
+    },
+    "600": {
+      "border-radius": {
+        "value": "{size.24}",
+        "type": "sizing"
+      }
+    },
+    "700": {
+      "border-radius": {
+        "value": "{size.32}",
+        "type": "sizing"
+      }
+    }
+  }
+}

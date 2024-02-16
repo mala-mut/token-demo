@@ -1,0 +1,32 @@
+{
+  "text": {
+    "primary": {
+      "value": "{core.halva.100}",
+      "type": "color"
+    },
+    "secondary": {
+      "value": "rgba({core.halva.100}, 0.6)",
+      "type": "color"
+    },
+    "brand": {
+      "value": "{core.aubergine.500}",
+      "type": "color"
+    },
+    "positive": {
+      "value": "{core.kiwi.500}",
+      "type": "color"
+    },
+    "warning": {
+      "value": "{core.banana.500}",
+      "type": "color"
+    },
+    "negative": {
+      "value": "{core.strawberry.450}",
+      "type": "color"
+    },
+    "link-primary": {
+      "value": "{core.curacao.450}",
+      "type": "color"
+    }
+  }
+}

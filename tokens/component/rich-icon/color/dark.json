@@ -1,0 +1,56 @@
+{
+  "rich-icon": {
+    "icon": {
+      "primary": {
+        "value": "{core.halva.100}",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "rgba({core.halva.100}, 0.6)",
+        "type": "color"
+      },
+      "brand": {
+        "value": "{core.aubergine.350}",
+        "type": "color"
+      },
+      "positive": {
+        "value": "{core.kiwi.350}",
+        "type": "color"
+      },
+      "warning": {
+        "value": "{core.banana.350}",
+        "type": "color"
+      },
+      "negative": {
+        "value": "{core.strawberry.350}",
+        "type": "color"
+      }
+    },
+    "background": {
+      "primary": {
+        "value": "rgba({core.halva.100}, 0.15)",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "rgba({core.halva.100}, 0.09)",
+        "type": "color"
+      },
+      "brand": {
+        "value": "rgba({core.aubergine.350}, 0.15)",
+        "type": "color"
+      },
+      "positive": {
+        "value": "rgba({core.kiwi.350}, 0.15)",
+        "type": "color"
+      },
+      "warning": {
+        "value": "rgba({core.banana.350}, 0.15)",
+        "type": "color"
+      },
+      "negative": {
+        "value": "rgba({core.strawberry.350}, 0.15)",
+        "type": "color"
+      }
+    }
+  }
+}

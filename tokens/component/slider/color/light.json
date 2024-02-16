@@ -1,0 +1,24 @@
+{
+  "slider": {
+    "default": {
+      "background": {
+        "value": "rgba({core.aubergine.700}, 0.15)",
+        "type": "color"
+      },
+      "range": {
+        "value": "{core.aubergine.500}",
+        "type": "color"
+      },
+      "knob": {
+        "value": "{core.aubergine.500}",
+        "type": "color"
+      }
+    },
+    "hover": {
+      "knob-border": {
+        "value": "rgba({core.aubergine.500}, 0.15)",
+        "type": "color"
+      }
+    }
+  }
+}

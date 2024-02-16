@@ -1,0 +1,108 @@
+{
+  "card": {
+    "x-small": {
+      "layout": {
+        "padding-top": {
+          "value": "{size.20}",
+          "type": "sizing"
+        },
+        "padding-horizontal": {
+          "value": "{size.16}",
+          "type": "sizing"
+        }
+      },
+      "header": {
+        "default": {
+          "padding-top": {
+            "value": "{size.4}",
+            "type": "sizing"
+          },
+          "padding-bottom": {
+            "value": "{size.4}",
+            "type": "sizing"
+          }
+        },
+        "banner": {
+          "padding-top": {
+            "value": "{size.16}",
+            "type": "sizing"
+          },
+          "padding-bottom": {
+            "value": "0",
+            "type": "sizing"
+          }
+        }
+      },
+      "content": {
+        "padding-top": {
+          "default": {
+            "value": "{size.8}",
+            "type": "sizing"
+          },
+          "addon-small": {
+            "value": "{size.10}",
+            "type": "sizing"
+          }
+        },
+        "padding-bottom": {
+          "default": {
+            "value": "{size.12}",
+            "type": "sizing"
+          }
+        }
+      }
+    },
+    "large": {
+      "layout": {
+        "padding-top": {
+          "value": "{size.20}",
+          "type": "sizing"
+        },
+        "padding-horizontal": {
+          "value": "{size.24}",
+          "type": "sizing"
+        }
+      },
+      "header": {
+        "default": {
+          "padding-top": {
+            "value": "{size.12}",
+            "type": "sizing"
+          },
+          "padding-bottom": {
+            "value": "{size.12}",
+            "type": "sizing"
+          }
+        },
+        "banner": {
+          "padding-top": {
+            "value": "{size.24}",
+            "type": "sizing"
+          },
+          "padding-bottom": {
+            "value": "0",
+            "type": "sizing"
+          }
+        }
+      },
+      "content": {
+        "padding-top": {
+          "default": {
+            "value": "{size.8}",
+            "type": "sizing"
+          },
+          "addon-small": {
+            "value": "18",
+            "type": "sizing"
+          }
+        },
+        "padding-bottom": {
+          "default": {
+            "value": "{size.20}",
+            "type": "sizing"
+          }
+        }
+      }
+    }
+  }
+}

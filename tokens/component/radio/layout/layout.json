@@ -1,0 +1,40 @@
+{
+  "radio": {
+    "400": {
+      "size": {
+        "value": "{size.16}",
+        "type": "sizing"
+      },
+      "border-radius": {
+        "value": "{size.8}",
+        "type": "sizing"
+      },
+      "border-width": {
+        "value": "{size.1}",
+        "type": "sizing"
+      },
+      "error-border-width": {
+        "value": "{size.4}",
+        "type": "sizing"
+      }
+    },
+    "500": {
+      "size": {
+        "value": "{size.20}",
+        "type": "sizing"
+      },
+      "border-radius": {
+        "value": "{size.10}",
+        "type": "sizing"
+      },
+      "border-width": {
+        "value": "{size.1}",
+        "type": "sizing"
+      },
+      "error-border-width": {
+        "value": "{size.4}",
+        "type": "sizing"
+      }
+    }
+  }
+}

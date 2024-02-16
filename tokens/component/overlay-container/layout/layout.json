@@ -1,0 +1,34 @@
+{
+  "overlay-container": {
+    "large": {
+      "content-padding-horizontal": {
+        "value": "{size.32}",
+        "type": "sizing"
+      },
+      "content-padding-bottom": {
+        "value": "{size.16}",
+        "type": "sizing"
+      }
+    },
+    "medium": {
+      "content-padding-horizontal": {
+        "value": "{size.24}",
+        "type": "sizing"
+      },
+      "content-padding-bottom": {
+        "value": "{size.16}",
+        "type": "sizing"
+      }
+    },
+    "small": {
+      "content-padding-horizontal": {
+        "value": "{size.16}",
+        "type": "sizing"
+      },
+      "content-padding-bottom": {
+        "value": "{size.16}",
+        "type": "sizing"
+      }
+    }
+  }
+}

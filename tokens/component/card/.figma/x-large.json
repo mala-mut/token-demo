@@ -1,0 +1,54 @@
+{
+  "card": {
+    "layout": {
+      "padding-top": {
+        "value": "{card.large.layout.padding-top}",
+        "type": "sizing"
+      },
+      "padding-horizontal": {
+        "value": "{card.large.layout.padding-horizontal}",
+        "type": "sizing"
+      }
+    },
+    "header": {
+      "default": {
+        "padding-top": {
+          "value": "{card.large.header.default.padding-top}",
+          "type": "sizing"
+        },
+        "padding-bottom": {
+          "value": "{card.large.header.default.padding-bottom}",
+          "type": "sizing"
+        }
+      },
+      "banner": {
+        "padding-top": {
+          "value": "{card.large.header.banner.padding-top}",
+          "type": "sizing"
+        },
+        "padding-bottom": {
+          "value": "{card.large.header.banner.padding-bottom}",
+          "type": "sizing"
+        }
+      }
+    },
+    "content": {
+      "padding-top": {
+        "default": {
+          "value": "{card.large.content.padding-top.default}",
+          "type": "sizing"
+        },
+        "addon-small": {
+          "value": "{card.large.content.padding-top.addon-small}",
+          "type": "sizing"
+        }
+      },
+      "padding-bottom": {
+        "default": {
+          "value": "{card.large.content.padding-bottom.default}",
+          "type": "sizing"
+        }
+      }
+    }
+  }
+}

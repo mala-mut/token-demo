@@ -1,0 +1,8 @@
+{
+  "scrim": {
+    "background": {
+      "value": "rgba({core.aubergine.950}, 0.6)",
+      "type": "color"
+    }
+  }
+}

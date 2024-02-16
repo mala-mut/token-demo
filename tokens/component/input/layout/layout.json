@@ -1,0 +1,158 @@
+{
+  "input": {
+    "layout": {
+      "500": {
+        "border-radius": {
+          "value": "{size.12}",
+          "type": "sizing"
+        },
+        "border-width": {
+          "default": {
+            "value": "{size.1}",
+            "type": "sizing"
+          },
+          "hover": {
+            "value": "{size.1}",
+            "type": "sizing"
+          },
+          "focused": {
+            "value": "{size.2}",
+            "type": "sizing"
+          }
+        },
+        "min-size": {
+          "value": "{size.48}",
+          "type": "sizing"
+        },
+        "gap": {
+          "value": "{size.4}",
+          "type": "sizing"
+        }
+      },
+      "600": {
+        "border-radius": {
+          "value": "{size.12}",
+          "type": "sizing"
+        },
+        "border-width": {
+          "default": {
+            "value": "{size.1}",
+            "type": "sizing"
+          },
+          "hover": {
+            "value": "{size.1}",
+            "type": "sizing"
+          },
+          "focused": {
+            "value": "{size.2}",
+            "type": "sizing"
+          }
+        },
+        "min-size": {
+          "value": "{size.56}",
+          "type": "sizing"
+        },
+        "gap": {
+          "value": "{size.4}",
+          "type": "sizing"
+        }
+      },
+      "700": {
+        "border-radius": {
+          "value": "{size.16}",
+          "type": "sizing"
+        },
+        "border-width": {
+          "default": {
+            "value": "{size.1}",
+            "type": "sizing"
+          },
+          "hover": {
+            "value": "{size.1}",
+            "type": "sizing"
+          },
+          "focused": {
+            "value": "{size.2}",
+            "type": "sizing"
+          }
+        },
+        "min-size": {
+          "value": "{size.64}",
+          "type": "sizing"
+        },
+        "gap": {
+          "value": "{size.4}",
+          "type": "sizing"
+        }
+      }
+    },
+    "content": {
+      "500": {
+        "padding-horizontal": {
+          "value": "{size.8}",
+          "type": "sizing"
+        },
+        "input-padding-horizontal": {
+          "value": "{size.4}",
+          "type": "sizing"
+        },
+        "control-padding": {
+          "value": "{size.4}",
+          "type": "sizing"
+        },
+        "addon-left-padding-right": {
+          "value": "{size.4}",
+          "type": "sizing"
+        },
+        "addon-right-padding-left": {
+          "value": "{size.4}",
+          "type": "sizing"
+        }
+      },
+      "600": {
+        "padding-horizontal": {
+          "value": "{size.10}",
+          "type": "sizing"
+        },
+        "input-padding-horizontal": {
+          "value": "{size.6}",
+          "type": "sizing"
+        },
+        "control-padding": {
+          "value": "{size.6}",
+          "type": "sizing"
+        },
+        "addon-left-padding-right": {
+          "value": "{size.2}",
+          "type": "sizing"
+        },
+        "addon-right-padding-left": {
+          "value": "{size.2}",
+          "type": "sizing"
+        }
+      },
+      "700": {
+        "padding-horizontal": {
+          "value": "{size.12}",
+          "type": "sizing"
+        },
+        "input-padding-horizontal": {
+          "value": "{size.8}",
+          "type": "sizing"
+        },
+        "control-padding": {
+          "value": "{size.8}",
+          "type": "sizing"
+        },
+        "addon-left-padding-right": {
+          "value": "0",
+          "type": "sizing"
+        },
+        "addon-right-padding-left": {
+          "value": "0",
+          "type": "sizing"
+        }
+      }
+    }
+  }
+}

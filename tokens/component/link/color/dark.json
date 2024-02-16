@@ -1,0 +1,22 @@
+{
+  "link": {
+    "enabled": {
+      "primary": {
+        "value": "{core.curacao.450}",
+        "type": "color"
+      }
+    },
+    "hovered": {
+      "primary": {
+        "value": "{core.curacao.650}",
+        "type": "color"
+      }
+    },
+    "active": {
+      "primary": {
+        "value": "{core.curacao.450}",
+        "type": "color"
+      }
+    }
+  }
+}

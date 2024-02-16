@@ -1,0 +1,10 @@
+{
+  "separator": {
+    "primary": {
+      "background": {
+        "value": "rgba({core.halva.650}, 0.6)",
+        "type": "color"
+      }
+    }
+  }
+}

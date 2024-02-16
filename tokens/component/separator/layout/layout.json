@@ -1,0 +1,8 @@
+{
+  "separator": {
+    "width": {
+      "value": "{size.1}",
+      "type": "sizing"
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "header": {
+    "layout": {
+      "min-height": {
+        "value": "{header.medium.layout.min-height}",
+        "type": "sizing"
+      },
+      "padding-top": {
+        "value": "{header.medium.layout.padding-top}",
+        "type": "sizing"
+      },
+      "padding-bottom": {
+        "value": "{header.medium.layout.padding-bottom}",
+        "type": "sizing"
+      }
+    },
+    "product-links": {
+      "padding-top": {
+        "value": "{header.medium.product-links.padding-top}",
+        "type": "sizing"
+      },
+      "gap": {
+        "value": "{header.medium.product-links.gap}",
+        "type": "sizing"
+      }
+    },
+    "badge": {
+      "padding-bottom": {
+        "value": "{header.medium.badge.padding-bottom}",
+        "type": "sizing"
+      },
+      "padding-left": {
+        "value": "{header.medium.badge.padding-left}",
+        "type": "sizing"
+      }
+    },
+    "links": {
+      "padding-bottom": {
+        "value": "{header.medium.links.padding-bottom}",
+        "type": "sizing"
+      },
+      "gap": {
+        "value": "{header.medium.links.gap}",
+        "type": "sizing"
+      }
+    },
+    "account": {
+      "padding-right": {
+        "value": "{header.medium.account.padding-right}",
+        "type": "sizing"
+      },
+      "padding-left": {
+        "value": "{header.medium.account.padding-left}",
+        "type": "sizing"
+      },
+      "padding-bottom": {
+        "value": "{header.medium.account.padding-bottom}",
+        "type": "sizing"
+      }
+    }
+  }
+}

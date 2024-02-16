@@ -1,0 +1,82 @@
+{
+  "modal-header": {
+    "large": {
+      "padding-vertical": {
+        "value": "{size.16}",
+        "type": "sizing"
+      },
+      "padding-horizontal": {
+        "value": "{size.16}",
+        "type": "sizing"
+      },
+      "gap": {
+        "value": "0",
+        "type": "sizing"
+      },
+      "title-container-padding-vertical": {
+        "value": "{size.6}",
+        "type": "sizing"
+      },
+      "title-container-padding-horizontal": {
+        "value": "{size.16}",
+        "type": "sizing"
+      },
+      "title-container-min-height": {
+        "value": "{size.48}",
+        "type": "sizing"
+      }
+    },
+    "medium": {
+      "padding-vertical": {
+        "value": "{size.16}",
+        "type": "sizing"
+      },
+      "padding-horizontal": {
+        "value": "{size.16}",
+        "type": "sizing"
+      },
+      "gap": {
+        "value": "{size.8}",
+        "type": "sizing"
+      },
+      "title-container-padding-vertical": {
+        "value": "5.5",
+        "type": "sizing"
+      },
+      "title-container-padding-horizontal": {
+        "value": "{size.8}",
+        "type": "sizing"
+      },
+      "title-container-min-height": {
+        "value": "{size.40}",
+        "type": "sizing"
+      }
+    },
+    "small": {
+      "padding-vertical": {
+        "value": "{size.16}",
+        "type": "sizing"
+      },
+      "padding-horizontal": {
+        "value": "{size.16}",
+        "type": "sizing"
+      },
+      "gap": {
+        "value": "{size.16}",
+        "type": "sizing"
+      },
+      "title-container-padding-vertical": {
+        "value": "{size.8}",
+        "type": "sizing"
+      },
+      "title-container-padding-horizontal": {
+        "value": "0",
+        "type": "sizing"
+      },
+      "title-container-min-height": {
+        "value": "{size.36}",
+        "type": "sizing"
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "dropdown": {
+    "500": {
+      "inner-padding-horizontal": {
+        "value": "{size.4}",
+        "type": "sizing"
+      },
+      "inner-radius": {
+        "value": "{size.4}",
+        "type": "sizing"
+      }
+    },
+    "600": {
+      "inner-padding-horizontal": {
+        "value": "{size.8}",
+        "type": "sizing"
+      },
+      "inner-radius": {
+        "value": "{size.4}",
+        "type": "sizing"
+      }
+    },
+    "700": {
+      "inner-padding-horizontal": {
+        "value": "{size.12}",
+        "type": "sizing"
+      },
+      "inner-radius": {
+        "value": "{size.8}",
+        "type": "sizing"
+      }
+    },
+    "common": {
+      "padding-horizontal": {
+        "value": "{size.8}",
+        "type": "sizing"
+      },
+      "padding-vertical": {
+        "value": "{size.8}",
+        "type": "sizing"
+      }
+    }
+  }
+}

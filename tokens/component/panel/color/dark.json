@@ -1,0 +1,32 @@
+{
+  "panel": {
+    "primary": {
+      "value": "{core.halva.800}",
+      "type": "color"
+    },
+    "secondary": {
+      "value": "{core.halva.700}",
+      "type": "color"
+    },
+    "tertiary": {
+      "value": "{core.halva.700}",
+      "type": "color"
+    },
+    "brand": {
+      "value": "{core.aubergine.300}",
+      "type": "color"
+    },
+    "positive": {
+      "value": "{core.kiwi.600}",
+      "type": "color"
+    },
+    "warning": {
+      "value": "{core.banana.600}",
+      "type": "color"
+    },
+    "negative": {
+      "value": "{core.strawberry.600}",
+      "type": "color"
+    }
+  }
+}

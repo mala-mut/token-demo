@@ -1,0 +1,24 @@
+{
+  "main-layout": {
+    "min-width": {
+      "value": "{main-layout.small.min-width}",
+      "type": "sizing"
+    },
+    "max-width": {
+      "value": "{main-layout.medium.min-width} - 1",
+      "type": "sizing"
+    },
+    "padding-horizontal": {
+      "value": "{main-layout.small.padding-horizontal}",
+      "type": "sizing"
+    },
+    "padding-top": {
+      "value": "{main-layout.small.padding-top}",
+      "type": "sizing"
+    },
+    "padding-bottom": {
+      "value": "{main-layout.small.padding-bottom}",
+      "type": "sizing"
+    }
+  }
+}

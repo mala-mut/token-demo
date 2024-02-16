@@ -1,0 +1,10 @@
+{
+  "modal-header": {
+    "small": {
+      "label": {
+        "value": "{big-accent.600}",
+        "type": "typography"
+      }
+    }
+  }
+}

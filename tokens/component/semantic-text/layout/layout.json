@@ -1,0 +1,130 @@
+{
+  "semantic-text": {
+    "header-x-large": {
+      "padding-top": {
+        "value": "{size.8}",
+        "type": "sizing"
+      },
+      "padding-top-extra": {
+        "value": "{size.8}",
+        "type": "sizing"
+      },
+      "padding-bottom": {
+        "value": "{size.8}",
+        "type": "sizing"
+      }
+    },
+    "header-large": {
+      "padding-top": {
+        "value": "{size.8}",
+        "type": "sizing"
+      },
+      "padding-top-extra": {
+        "value": "{size.8}",
+        "type": "sizing"
+      },
+      "padding-bottom": {
+        "value": "{size.8}",
+        "type": "sizing"
+      }
+    },
+    "header-medium": {
+      "padding-top": {
+        "value": "{size.8}",
+        "type": "sizing"
+      },
+      "padding-top-extra": {
+        "value": "{size.8}",
+        "type": "sizing"
+      },
+      "padding-bottom": {
+        "value": "{size.8}",
+        "type": "sizing"
+      }
+    },
+    "header-small": {
+      "padding-top": {
+        "value": "{size.8}",
+        "type": "sizing"
+      },
+      "padding-top-extra": {
+        "value": "{size.8}",
+        "type": "sizing"
+      },
+      "padding-bottom": {
+        "value": "{size.8}",
+        "type": "sizing"
+      }
+    },
+    "header-x-small": {
+      "padding-top": {
+        "value": "{size.8}",
+        "type": "sizing"
+      },
+      "padding-top-extra": {
+        "value": "{size.8}",
+        "type": "sizing"
+      },
+      "padding-bottom": {
+        "value": "{size.8}",
+        "type": "sizing"
+      }
+    },
+    "header-xx-small": {
+      "padding-top": {
+        "value": "{size.8}",
+        "type": "sizing"
+      },
+      "padding-top-extra": {
+        "value": "{size.8}",
+        "type": "sizing"
+      },
+      "padding-bottom": {
+        "value": "{size.8}",
+        "type": "sizing"
+      }
+    },
+    "paragraph-large": {
+      "padding-top": {
+        "value": "0",
+        "type": "sizing"
+      },
+      "padding-top-extra": {
+        "value": "{size.8}",
+        "type": "sizing"
+      },
+      "padding-bottom": {
+        "value": "{size.12}",
+        "type": "sizing"
+      }
+    },
+    "paragraph-medium": {
+      "padding-top": {
+        "value": "0",
+        "type": "sizing"
+      },
+      "padding-top-extra": {
+        "value": "{size.4}",
+        "type": "sizing"
+      },
+      "padding-bottom": {
+        "value": "{size.8}",
+        "type": "sizing"
+      }
+    },
+    "paragraph-small": {
+      "padding-top": {
+        "value": "0",
+        "type": "sizing"
+      },
+      "padding-top-extra": {
+        "value": "0",
+        "type": "sizing"
+      },
+      "padding-bottom": {
+        "value": "{size.4}",
+        "type": "sizing"
+      }
+    }
+  }
+}

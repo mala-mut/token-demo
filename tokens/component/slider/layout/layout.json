@@ -1,0 +1,22 @@
+{
+  "slider": {
+    "500": {
+      "background": {
+        "height": {
+          "value": "{size.4}",
+          "type": "sizing"
+        }
+      },
+      "knob": {
+        "size": {
+          "value": "{size.20}",
+          "type": "sizing"
+        },
+        "border-width": {
+          "value": "{size.8}",
+          "type": "sizing"
+        }
+      }
+    }
+  }
+}

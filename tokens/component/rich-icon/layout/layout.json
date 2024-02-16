@@ -1,0 +1,134 @@
+{
+  "rich-icon": {
+    "100": {
+      "background-size": {
+        "value": "{size.16}",
+        "type": "sizing"
+      },
+      "icon-size": {
+        "value": "{size.10}",
+        "type": "sizing"
+      }
+    },
+    "150": {
+      "background-size": {
+        "value": "{size.20}",
+        "type": "sizing"
+      },
+      "icon-size": {
+        "value": "{size.14}",
+        "type": "sizing"
+      }
+    },
+    "200": {
+      "background-size": {
+        "value": "{size.24}",
+        "type": "sizing"
+      },
+      "icon-size": {
+        "value": "{size.16}",
+        "type": "sizing"
+      }
+    },
+    "250": {
+      "background-size": {
+        "value": "{size.28}",
+        "type": "sizing"
+      },
+      "icon-size": {
+        "value": "{size.20}",
+        "type": "sizing"
+      }
+    },
+    "300": {
+      "background-size": {
+        "value": "{size.32}",
+        "type": "sizing"
+      },
+      "icon-size": {
+        "value": "{size.22}",
+        "type": "sizing"
+      }
+    },
+    "350": {
+      "background-size": {
+        "value": "{size.36}",
+        "type": "sizing"
+      },
+      "icon-size": {
+        "value": "{size.24}",
+        "type": "sizing"
+      }
+    },
+    "400": {
+      "background-size": {
+        "value": "{size.40}",
+        "type": "sizing"
+      },
+      "icon-size": {
+        "value": "{size.28}",
+        "type": "sizing"
+      }
+    },
+    "450": {
+      "background-size": {
+        "value": "{size.44}",
+        "type": "sizing"
+      },
+      "icon-size": {
+        "value": "{size.30}",
+        "type": "sizing"
+      }
+    },
+    "500": {
+      "background-size": {
+        "value": "{size.48}",
+        "type": "sizing"
+      },
+      "icon-size": {
+        "value": "{size.32}",
+        "type": "sizing"
+      }
+    },
+    "600": {
+      "background-size": {
+        "value": "{size.56}",
+        "type": "sizing"
+      },
+      "icon-size": {
+        "value": "{size.36}",
+        "type": "sizing"
+      }
+    },
+    "700": {
+      "background-size": {
+        "value": "{size.64}",
+        "type": "sizing"
+      },
+      "icon-size": {
+        "value": "{size.40}",
+        "type": "sizing"
+      }
+    },
+    "800": {
+      "background-size": {
+        "value": "{size.72}",
+        "type": "sizing"
+      },
+      "icon-size": {
+        "value": "{size.44}",
+        "type": "sizing"
+      }
+    },
+    "900": {
+      "background-size": {
+        "value": "{size.80}",
+        "type": "sizing"
+      },
+      "icon-size": {
+        "value": "{size.48}",
+        "type": "sizing"
+      }
+    }
+  }
+}

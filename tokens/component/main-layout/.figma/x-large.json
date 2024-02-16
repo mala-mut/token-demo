@@ -1,0 +1,20 @@
+{
+  "main-layout": {
+    "min-width": {
+      "value": "{main-layout.x-large.min-width}",
+      "type": "sizing"
+    },
+    "padding-horizontal": {
+      "value": "{main-layout.x-large.padding-horizontal}",
+      "type": "sizing"
+    },
+    "padding-top": {
+      "value": "{main-layout.x-large.padding-top}",
+      "type": "sizing"
+    },
+    "padding-bottom": {
+      "value": "{main-layout.x-large.padding-bottom}",
+      "type": "sizing"
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "pimple": {
+    "100": {
+      "size": {
+        "value": "{size.6}",
+        "type": "sizing"
+      },
+      "padding-horizontal": {
+        "value": "0",
+        "type": "sizing"
+      },
+      "padding-bottom": {
+        "value": "0",
+        "type": "sizing"
+      },
+      "border-radius": {
+        "value": "3",
+        "type": "sizing"
+      }
+    },
+    "400": {
+      "size": {
+        "value": "{size.16}",
+        "type": "sizing"
+      },
+      "padding-horizontal": {
+        "value": "{size.4}",
+        "type": "sizing"
+      },
+      "padding-bottom": {
+        "value": "0",
+        "type": "sizing"
+      },
+      "border-radius": {
+        "value": "{size.8}",
+        "type": "sizing"
+      }
+    },
+    "500": {
+      "size": {
+        "value": "{size.20}",
+        "type": "sizing"
+      },
+      "padding-horizontal": {
+        "value": "{size.4}",
+        "type": "sizing"
+      },
+      "padding-bottom": {
+        "value": "{size.1}",
+        "type": "sizing"
+      },
+      "border-radius": {
+        "value": "{size.10}",
+        "type": "sizing"
+      }
+    }
+  }
+}

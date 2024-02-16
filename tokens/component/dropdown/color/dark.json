@@ -1,0 +1,10 @@
+{
+  "dropdown": {
+    "background": {
+      "hover": {
+        "value": "{core.halva.650}",
+        "type": "color"
+      }
+    }
+  }
+}

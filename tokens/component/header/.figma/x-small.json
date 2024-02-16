@@ -1,0 +1,62 @@
+{
+  "header": {
+    "layout": {
+      "min-height": {
+        "value": "{header.x-small.layout.min-height}",
+        "type": "sizing"
+      },
+      "padding-top": {
+        "value": "{header.x-small.layout.padding-top}",
+        "type": "sizing"
+      },
+      "padding-bottom": {
+        "value": "{header.x-small.layout.padding-bottom}",
+        "type": "sizing"
+      }
+    },
+    "product-links": {
+      "padding-top": {
+        "value": "{header.x-small.product-links.padding-top}",
+        "type": "sizing"
+      },
+      "gap": {
+        "value": "{header.x-small.product-links.gap}",
+        "type": "sizing"
+      }
+    },
+    "badge": {
+      "padding-bottom": {
+        "value": "{header.x-small.badge.padding-bottom}",
+        "type": "sizing"
+      },
+      "padding-left": {
+        "value": "{header.x-small.badge.padding-left}",
+        "type": "sizing"
+      }
+    },
+    "links": {
+      "padding-bottom": {
+        "value": "{header.x-small.links.padding-bottom}",
+        "type": "sizing"
+      },
+      "gap": {
+        "value": "{header.x-small.links.gap}",
+        "type": "sizing"
+      }
+    },
+    "account": {
+      "padding-right": {
+        "value": "{header.x-small.account.padding-right}",
+        "type": "sizing"
+      },
+      "padding-left": {
+        "value": "{header.x-small.account.padding-left}",
+        "type": "sizing"
+      },
+      "padding-bottom": {
+        "value": "{header.x-small.account.padding-bottom}",
+        "type": "sizing"
+      }
+    }
+  }
+}

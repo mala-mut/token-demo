@@ -1,0 +1,70 @@
+{
+  "tooltip-panel": {
+    "large": {
+      "padding-horizontal": {
+        "value": "{size.20}",
+        "type": "sizing"
+      },
+      "padding-vertical": {
+        "value": "{size.20}",
+        "type": "sizing"
+      },
+      "tip-padding-horizontal": {
+        "value": "19",
+        "type": "sizing"
+      },
+      "tip-padding-vertical": {
+        "value": "19",
+        "type": "sizing"
+      },
+      "min-width": {
+        "value": "{size.80}",
+        "type": "sizing"
+      }
+    },
+    "medium": {
+      "padding-horizontal": {
+        "value": "{size.16}",
+        "type": "sizing"
+      },
+      "padding-vertical": {
+        "value": "{size.16}",
+        "type": "sizing"
+      },
+      "tip-padding-horizontal": {
+        "value": "11",
+        "type": "sizing"
+      },
+      "tip-padding-vertical": {
+        "value": "11",
+        "type": "sizing"
+      },
+      "min-width": {
+        "value": "{size.64}",
+        "type": "sizing"
+      }
+    },
+    "small": {
+      "padding-horizontal": {
+        "value": "{size.12}",
+        "type": "sizing"
+      },
+      "padding-vertical": {
+        "value": "{size.12}",
+        "type": "sizing"
+      },
+      "tip-padding-horizontal": {
+        "value": "3",
+        "type": "sizing"
+      },
+      "tip-padding-vertical": {
+        "value": "3",
+        "type": "sizing"
+      },
+      "min-width": {
+        "value": "{size.48}",
+        "type": "sizing"
+      }
+    }
+  }
+}

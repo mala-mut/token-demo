@@ -1,0 +1,22 @@
+{
+  "modal-header": {
+    "large": {
+      "label": {
+        "value": "{big-accent.500}",
+        "type": "typography"
+      }
+    },
+    "medium": {
+      "label": {
+        "value": "{big-accent.400}",
+        "type": "typography"
+      }
+    },
+    "small": {
+      "label": {
+        "value": "{big-accent.250}",
+        "type": "typography"
+      }
+    }
+  }
+}

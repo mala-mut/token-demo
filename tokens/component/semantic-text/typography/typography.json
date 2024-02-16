@@ -1,0 +1,58 @@
+{
+  "semantic-text": {
+    "header-x-large": {
+      "text": {
+        "value": "{big.600.accent}",
+        "type": "typography"
+      }
+    },
+    "header-large": {
+      "text": {
+        "value": "{big.500.accent}",
+        "type": "typography"
+      }
+    },
+    "header-medium": {
+      "text": {
+        "value": "{big.400.accent}",
+        "type": "typography"
+      }
+    },
+    "header-small": {
+      "text": {
+        "value": "{big.300.accent}",
+        "type": "typography"
+      }
+    },
+    "header-x-small": {
+      "text": {
+        "value": "{compact.600.accent}",
+        "type": "typography"
+      }
+    },
+    "header-xx-small": {
+      "text": {
+        "value": "{compact.500.accent}",
+        "type": "typography"
+      }
+    },
+    "paragraph-large": {
+      "text": {
+        "value": "{article.700.normal}",
+        "type": "typography"
+      }
+    },
+    "paragraph-medium": {
+      "text": {
+        "value": "{text.500.normal}",
+        "type": "typography"
+      }
+    },
+    "paragraph-small": {
+      "text": {
+        "value": "{text.400.normal}",
+        "type": "typography"
+      }
+    }
+  }
+}

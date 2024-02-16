@@ -1,0 +1,12 @@
+{
+  "pimple": {
+    "background": {
+      "value": "{core.strawberry.500}",
+      "type": "color"
+    },
+    "label": {
+      "value": "{core.halva.000}",
+      "type": "color"
+    }
+  }
+}

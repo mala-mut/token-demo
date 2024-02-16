@@ -1,0 +1,274 @@
+{
+  "label-value": {
+    "paragraph-small": {
+      "label-text": {
+        "default": {
+          "value": "{text.400.normal}",
+          "type": "typography"
+        },
+        "table": {
+          "value": "{text.400.normal}",
+          "type": "typography"
+        },
+        "control": {
+          "value": "{compact.400.normal}",
+          "type": "typography"
+        }
+      },
+      "value-text": {
+        "default": {
+          "value": "{text.400.normal}",
+          "type": "typography"
+        },
+        "table": {
+          "value": "{text.400.numeric}",
+          "type": "typography"
+        },
+        "control": {
+          "value": "{compact.400.normal}",
+          "type": "typography"
+        }
+      }
+    },
+    "paragraph-medium": {
+      "label-text": {
+        "default": {
+          "value": "{text.500.normal}",
+          "type": "typography"
+        },
+        "table": {
+          "value": "{text.500.normal}",
+          "type": "typography"
+        },
+        "control": {
+          "value": "{compact.500.normal}",
+          "type": "typography"
+        }
+      },
+      "value-text": {
+        "default": {
+          "value": "{text.500.normal}",
+          "type": "typography"
+        },
+        "table": {
+          "value": "{text.500.numeric}",
+          "type": "typography"
+        },
+        "control": {
+          "value": "{compact.500.normal}",
+          "type": "typography"
+        }
+      }
+    },
+    "paragraph-medium-compact": {
+      "label-text": {
+        "default": {
+          "value": "{compact.500.normal}",
+          "type": "typography"
+        },
+        "table": {
+          "value": "{compact.500.normal}",
+          "type": "typography"
+        },
+        "control": {
+          "value": "{compact.500.normal}",
+          "type": "typography"
+        }
+      },
+      "value-text": {
+        "default": {
+          "value": "{compact.500.normal}",
+          "type": "typography"
+        },
+        "table": {
+          "value": "{compact.500.numeric}",
+          "type": "typography"
+        },
+        "control": {
+          "value": "{compact.500.normal}",
+          "type": "typography"
+        }
+      }
+    },
+    "paragraph-large": {
+      "label-text": {
+        "default": {
+          "value": "{text.600.normal}",
+          "type": "typography"
+        },
+        "table": {
+          "value": "{text.600.normal}",
+          "type": "typography"
+        },
+        "control": {
+          "value": "{compact.600.normal}",
+          "type": "typography"
+        }
+      },
+      "value-text": {
+        "default": {
+          "value": "{text.600.normal}",
+          "type": "typography"
+        },
+        "table": {
+          "value": "{text.600.numeric}",
+          "type": "typography"
+        },
+        "control": {
+          "value": "{compact.600.normal}",
+          "type": "typography"
+        }
+      }
+    },
+    "paragraph-large-compact": {
+      "label-text": {
+        "default": {
+          "value": "{compact.600.normal}",
+          "type": "typography"
+        },
+        "table": {
+          "value": "{compact.600.normal}",
+          "type": "typography"
+        },
+        "control": {
+          "value": "{compact.600.normal}",
+          "type": "typography"
+        }
+      },
+      "value-text": {
+        "default": {
+          "value": "{compact.600.normal}",
+          "type": "typography"
+        },
+        "table": {
+          "value": "{compact.600.numeric-accent}",
+          "type": "typography"
+        },
+        "control": {
+          "value": "{compact.600.normal}",
+          "type": "typography"
+        }
+      }
+    },
+    "header-small": {
+      "label-text": {
+        "default": {
+          "value": "{big.300.accent}",
+          "type": "typography"
+        },
+        "table": {
+          "value": "{big.300.accent}",
+          "type": "typography"
+        },
+        "control": {
+          "value": "{big.300.accent}",
+          "type": "typography"
+        }
+      },
+      "value-text": {
+        "default": {
+          "value": "{compact.400.normal}",
+          "type": "typography"
+        },
+        "table": {
+          "value": "{big.300.numeric-accent}",
+          "type": "typography"
+        },
+        "control": {
+          "value": "{compact.400.normal}",
+          "type": "typography"
+        }
+      }
+    },
+    "header-medium": {
+      "label-text": {
+        "default": {
+          "value": "{big.400.accent}",
+          "type": "typography"
+        },
+        "table": {
+          "value": "{big.400.accent}",
+          "type": "typography"
+        },
+        "control": {
+          "value": "{big.400.accent}",
+          "type": "typography"
+        }
+      },
+      "value-text": {
+        "default": {
+          "value": "{compact.400.normal}",
+          "type": "typography"
+        },
+        "table": {
+          "value": "{big.400.numeric-accent}",
+          "type": "typography"
+        },
+        "control": {
+          "value": "{compact.400.normal}",
+          "type": "typography"
+        }
+      }
+    },
+    "header-large": {
+      "label-text": {
+        "default": {
+          "value": "{big.500.accent}",
+          "type": "typography"
+        },
+        "table": {
+          "value": "{big.500.accent}",
+          "type": "typography"
+        },
+        "control": {
+          "value": "{big.500.accent}",
+          "type": "typography"
+        }
+      },
+      "value-text": {
+        "default": {
+          "value": "{compact.600.normal}",
+          "type": "typography"
+        },
+        "table": {
+          "value": "{big.500.numeric-accent}",
+          "type": "typography"
+        },
+        "control": {
+          "value": "{compact.600.normal}",
+          "type": "typography"
+        }
+      }
+    },
+    "header-x-large": {
+      "label-text": {
+        "default": {
+          "value": "{big.600.accent}",
+          "type": "typography"
+        },
+        "table": {
+          "value": "{big.600.accent}",
+          "type": "typography"
+        },
+        "control": {
+          "value": "{big.600.accent}",
+          "type": "typography"
+        }
+      },
+      "value-text": {
+        "default": {
+          "value": "{compact.600.normal}",
+          "type": "typography"
+        },
+        "table": {
+          "value": "{big.600.numeric-accent}",
+          "type": "typography"
+        },
+        "control": {
+          "value": "{compact.600.normal}",
+          "type": "typography"
+        }
+      }
+    }
+  }
+}

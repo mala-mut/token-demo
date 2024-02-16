@@ -1,0 +1,16 @@
+{
+  "core": {
+    "brand": {
+      "value": "Tutu Sans",
+      "type": "fontFamilies"
+    },
+    "article": {
+      "value": "PT Serif",
+      "type": "fontFamilies"
+    },
+    "root-font-size": {
+      "value": 15,
+      "type": "fontSizes"
+    }
+  }
+}

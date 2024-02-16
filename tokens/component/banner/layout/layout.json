@@ -1,0 +1,12 @@
+{
+  "banner": {
+    "padding-horizontal": {
+      "value": "{size.16}",
+      "type": "sizing"
+    },
+    "padding-vertical": {
+      "value": "{size.4}",
+      "type": "sizing"
+    }
+  }
+}

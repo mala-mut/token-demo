@@ -1,0 +1,28 @@
+{
+  "logo": {
+    "default": {
+      "primary": {
+        "left": {
+          "value": "{core.aubergine.100}",
+          "type": "color"
+        },
+        "right": {
+          "value": "{core.aubergine.500}",
+          "type": "color"
+        }
+      }
+    },
+    "hover": {
+      "primary": {
+        "left": {
+          "value": "{core.aubergine.100}",
+          "type": "color"
+        },
+        "right": {
+          "value": "{core.aubergine.100}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}
